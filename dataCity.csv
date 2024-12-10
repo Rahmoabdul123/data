@@ -1,0 +1,964 @@
+﻿area,type,year,housePrice,income
+Adur,District,2021,345000,25711
+Adur,District,2022,375000,26739
+Adur,District,2023,375000,33007
+Allerdale,District,2021,165000,25000
+Allerdale,District,2022,180000,25600
+Allerdale,District,2023,190000,26200
+Amber Valley,District,2021,205000,31022
+Amber Valley,District,2022,195000,29266
+Amber Valley,District,2023,215000,33347
+Arun,District,2021,320000,26801
+Arun,District,2022,335000,27090
+Arun,District,2023,350000,29942
+Ashfield,District,2021,169000,27285
+Ashfield,District,2022,176000,30925
+Ashfield,District,2023,181500,29589
+Ashford,District,2021,315000,29703
+Ashford,District,2022,325000,32177
+Ashford,District,2023,335000,31252
+Babergh,District,2021,320000,26858
+Babergh,District,2022,330000,26372
+Babergh,District,2023,328000,28500
+Barking and Dagenham,Borough,2021,335000,32482
+Barking and Dagenham,Borough,2022,365000,31559
+Barking and Dagenham,Borough,2023,380000,34430
+Barnet,Borough,2021,592000,34800
+Barnet,Borough,2022,625000,34021
+Barnet,Borough,2023,615000,38749
+Barnsley,District,2021,143000,28621
+Barnsley,District,2022,147500,27798
+Barnsley,District,2023,154000,32232
+Barrow-in-Furness,District,2021,140000,24800
+Barrow-in-Furness,District,2022,150000,25300
+Barrow-in-Furness,District,2023,155000,26000
+Basildon,District,2021,339748,32834
+Basildon,District,2022,345000,30685
+Basildon,District,2023,353750,33777
+Basingstoke and Deane,District,2021,330000,36221
+Basingstoke and Deane,District,2022,339750,38273
+Basingstoke and Deane,District,2023,345000,39029
+Bassetlaw,District,2021,177000,26222
+Bassetlaw,District,2022,175000,25787
+Bassetlaw,District,2023,182600,27870
+Bath,City,2021,363000,30165
+Bath,City,2022,370000,32251
+Bath,City,2023,382000,34584
+Bedford,City,2021,295000,29403
+Bedford,City,2022,310000,33190
+Bedford,City,2023,322500,33539
+Birmingham,City,2021,205000,31987
+Birmingham,City,2022,211500,34147
+Birmingham,City,2023,223000,34037
+Blaby,Borough,2021,245250,30362
+Blaby,Borough,2022,265225,35969
+Blaby,Borough,2023,270000,34626
+Blackburn with Darwen,Borough,2021,130000,27551
+Blackburn with Darwen,Borough,2022,127000,28306
+Blackburn with Darwen,Borough,2023,132000,31591
+Blackpool,City,2021,125000,28430
+Blackpool,City,2022,128750,26872
+Blackpool,City,2023,132500,30456
+Blaenau Gwent,District,2021,106000,30082
+Blaenau Gwent,District,2022,125000,27178
+Blaenau Gwent,District,2023,129975,28853
+Bolsover,Borough,2021,150000,25087
+Bolsover,Borough,2022,155000,25806
+Bolsover,Borough,2023,163000,30091
+Bolton,District,2021,160000,26808
+Bolton,District,2022,167500,27489
+Bolton,District,2023,179973,30079
+Boston,Borough,2021,184000,24224
+Boston,Borough,2022,188000,25640
+Boston,Borough,2023,196000,28369
+Bournemouth,District,2021,320000,29059
+Bournemouth,District,2022,325000,31930
+Bournemouth,District,2023,340000,33243
+Bracknell Forest,District,2021,370000,40908
+Bracknell Forest,District,2022,380000,43566
+Bracknell Forest,District,2023,390000,42955
+Bradford,City,2021,155000,28939
+Bradford,City,2022,150000,30879
+Bradford,City,2023,158500,31698
+Braintree,District,2021,300000,28418
+Braintree,District,2022,320000,31978
+Braintree,District,2023,327250,33032
+Breckland,City,2021,250000,26611
+Breckland,City,2022,262750,27912
+Breckland,City,2023,265000,31668
+Brent,District,2021,540750,33633
+Brent,District,2022,550000,42766
+Brent,District,2023,575000,34442
+Brentwood,Borough,2021,481750,30416
+Brentwood,Borough,2022,479000,34818
+Brentwood,Borough,2023,490000,39631
+Bridgend,County,2021,172000,30648
+Bridgend,County,2022,190000,28483
+Bridgend,County,2023,190000,32166
+Brighton and Hove,City,2021,405000,32037
+Brighton and Hove,City,2022,411500,31980
+Brighton and Hove,City,2023,430000,34876
+Bristol,City,2021,313000,32287
+,City,2022,330000,34446
+,City,2023,350000,36129
+Broadland,Borough,2021,275000,29740
+Broadland,Borough,2022,295000,32860
+Broadland,Borough,2023,305000,33511
+Bromsgrove,District,2021,320000,28584
+Bromsgrove,District,2022,325000,29255
+Bromsgrove,District,2023,335000,32993
+Broxbourne,County,2021,395000,34864
+Broxbourne,County,2022,405000,34559
+Broxbourne,County,2023,427500,34835
+Broxtowe,District,2021,215000,27201
+Broxtowe,District,2022,225000,28606
+Broxtowe,District,2023,240000,31312
+Buckinghamshire,Borough,2021,435000,35331
+Buckinghamshire,Borough,2022,450000,38798
+Buckinghamshire,Borough,2023,450000,38785
+Burnley,District,2021,111000,23231
+Burnley,District,2022,115000,25831
+Burnley,District,2023,105000,28173
+Bury,District,2021,212000,27578
+Bury,District,2022,220000,28115
+Bury,District,2023,225000,30765
+Caerphilly,District,2021,150000,29590
+Caerphilly,District,2022,166000,29362
+Caerphilly,District,2023,169000,33480
+Calderdale,Borough,2021,170000,27548
+Calderdale,Borough,2022,160000,29958
+Calderdale,Borough,2023,170000,31787
+Cambridge,City,2021,450000,35634
+Cambridge,City,2022,475000,35863
+Cambridge,City,2023,494000,39930
+Camden,Borough,2021,750000,41262
+Camden,Borough,2022,810000,44583
+Camden,Borough,2023,775000,45326
+Cannock Chase,Borough,2021,185000,28134
+Cannock Chase,Borough,2022,200000,26971
+Cannock Chase,Borough,2023,210000,29247
+Canterbury,City,2021,340000,26515
+Canterbury,City,2022,344000,33116
+Canterbury,City,2023,350000,32860
+Cardiff,City,2021,235000,29539
+Cardiff,City,2022,246000,33106
+Cardiff,City,2023,253100,34049
+Carmarthenshire,Borough,2021,169000,29292
+Carmarthenshire,Borough,2022,175000,30839
+Carmarthenshire,Borough,2023,180000,33824
+Castle Point,District,2021,333000,27362
+Castle Point,District,2022,358000,28879
+Castle Point,District,2023,363750,32380
+Central Bedfordshire,District,2021,325000,30502
+Central Bedfordshire,District,2022,335000,32587
+Central Bedfordshire,District,2023,350000,35594
+Ceredigion,District,2021,215000,27516
+Ceredigion,District,2022,237000,28444
+Ceredigion,District,2023,235000,29799
+Charnwood,District,2021,241500,29512
+Charnwood,District,2022,250000,32873
+Charnwood,District,2023,265000,33017
+Chelmsford,City,2021,376000,31913
+Chelmsford,City,2022,385000,31511
+Chelmsford,City,2023,395000,34778
+Cheltenham,District,2021,305000,29438
+Cheltenham,District,2022,295000,33029
+Cheltenham,District,2023,325000,36734
+Cherwell,Borough,2021,325000,31684
+Cherwell,Borough,2022,325000,35014
+Cherwell,Borough,2023,341000,36499
+Cheshire East,District,2021,266000,30121
+Cheshire East,District,2022,255000,31527
+Cheshire East,District,2023,265000,34350
+Cheshire West and Chester,Borough,2021,232000,31750
+Cheshire West and Chester,Borough,2022,230000,31771
+Cheshire West and Chester,Borough,2023,242000,33082
+Chesterfield,Borough,2021,175000,27422
+Chesterfield,Borough,2022,173000,28735
+Chesterfield,Borough,2023,182500,28774
+Chichester,City,2021,410000,28001
+Chichester,City,2022,422000,31554
+Chichester,City,2023,435000,31817
+Chorley,District,2021,190000,27380
+Chorley,District,2022,183000,29506
+Chorley,District,2023,201500,29778
+City of London,District,2021,750000,63000
+City of London,District,2022,730000,61911
+City of London,District,2023,885000,61984
+Colchester,City,2021,300000,29098
+Colchester,City,2022,305000,31366
+Colchester,City,2023,320000,33962
+Conwy,District,2021,193000,26100
+Conwy,District,2022,200000,30102
+Conwy,District,2023,209000,28617
+Cornwall,District,2021,275000,24992
+Cornwall,District,2022,282500,28576
+Cornwall,District,2023,290000,31737
+Cotswold,District,2021,405000,26243
+Cotswold,District,2022,413500,29621
+Cotswold,District,2023,435000,29579
+County Durham,District,2021,123000,26219
+County Durham,District,2022,120000,27737
+County Durham,District,2023,120000,29537
+Coventry,City,2021,200000,33313
+Coventry,City,2022,210000,33715
+Coventry,City,2023,220000,39491
+Crawley,Borough,2021,310000,34450
+Crawley,Borough,2022,325000,35464
+Crawley,Borough,2023,345625,38731
+Dacorum,District,2021,425750,30994
+Dacorum,District,2022,430000,30648
+Dacorum,District,2023,439600,33147
+Darlington,District,2021,147000,29280
+Darlington,District,2022,140000,30357
+Darlington,District,2023,150000,30928
+Dartford,District,2021,335000,36887
+Dartford,District,2022,355000,37959
+Dartford,District,2023,374000,38778
+Denbighshire,District,2021,175000,27814
+Denbighshire,District,2022,180000,30166
+Denbighshire,District,2023,183000,30312
+Derby,City,2021,180000,36330
+Derby,City,2022,188000,36023
+Derby,City,2023,197500,39431
+Derbyshire Dales,Borough,2021,287500,27761
+Derbyshire Dales,Borough,2022,315000,31457
+Derbyshire Dales,Borough,2023,335000,30523
+Doncaster,City,2021,150000,26937
+Doncaster,City,2022,150000,28887
+Doncaster,City,2023,155000,30997
+Dorset,Borough,2021,328500,27130
+Dorset,Borough,2022,335000,29290
+Dorset,Borough,2023,350000,32001
+Dover,District,2021,279995,30258
+Dover,District,2022,300000,31363
+Dover,District,2023,300000,36806
+Dudley,Borough,2021,200000,29926
+Dudley,Borough,2022,207500,30920
+Dudley,Borough,2023,219000,32021
+Ealing,Borough,2021,530000,32213
+Ealing,Borough,2022,540000,34810
+Ealing,Borough,2023,550000,37514
+East Cambridgeshire,District,2021,320000,29609
+East Cambridgeshire,District,2022,309581,29575
+East Cambridgeshire,District,2023,335000,31875
+East Devon,District,2021,320000,29186
+East Devon,District,2022,325000,31995
+East Devon,District,2023,350000,35058
+East Hampshire,Borough,2021,400000,28504
+East Hampshire,Borough,2022,430000,34025
+East Hampshire,Borough,2023,425000,32998
+East Hertfordshire,Borough,2021,425500,33981
+East Hertfordshire,Borough,2022,432250,35073
+East Hertfordshire,Borough,2023,441000,41222
+East Lindsey,District,2021,192500,25868
+East Lindsey,District,2022,210000,27745
+East Lindsey,District,2023,215000,30043
+East Riding of Yorkshire,District,2021,205000,28558
+East Riding of Yorkshire,District,2022,200000,30124
+East Riding of Yorkshire,District,2023,210000,31342
+East Staffordshire,Borough,2021,202000,28123
+East Staffordshire,Borough,2022,197750,30140
+East Staffordshire,Borough,2023,205000,32948
+East Suffolk,Borough,2021,275000,28253
+East Suffolk,Borough,2022,285000,33521
+East Suffolk,Borough,2023,292500,34502
+Eastbourne,District,2021,274975,28970
+Eastbourne,District,2022,280000,29278
+Eastbourne,District,2023,287750,31753
+Eastleigh,District,2021,311500,32906
+Eastleigh,District,2022,325000,32696
+Eastleigh,District,2023,326200,34383
+Elmbridge,Borough,2021,635000,34626
+Elmbridge,Borough,2022,690000,35167
+Elmbridge,Borough,2023,650000,42701
+Enfield,Borough,2021,458000,30808
+Enfield,Borough,2022,455000,36278
+Enfield,Borough,2023,475000,35964
+Epping Forest,Borough,2021,500000,32497
+Epping Forest,Borough,2022,510000,33045
+Epping Forest,Borough,2023,501000,37390
+Epsom and Ewell,Borough,2021,520000,29470
+Epsom and Ewell,Borough,2022,560500,28418
+Epsom and Ewell,Borough,2023,544000,32321
+Erewash,District,2021,185000,29420
+Erewash,District,2022,200000,31382
+Erewash,District,2023,210000,33994
+Exeter,City,2021,270000,29860
+Exeter,City,2022,285000,31860
+Exeter,City,2023,300000,33375
+Fareham,Borough,2021,320000,29645
+Fareham,Borough,2022,337750,32067
+Fareham,Borough,2023,350000,35806
+Fenland,Borough,2021,212500,24016
+Fenland,Borough,2022,226000,29016
+Fenland,Borough,2023,230000,31346
+Flintshire,Borough,2021,180000,28801
+Flintshire,Borough,2022,190000,31659
+Flintshire,Borough,2023,192000,32124
+Folkestone and Hythe,Borough,2021,300000,26824
+Folkestone and Hythe,Borough,2022,315000,31001
+Folkestone and Hythe,Borough,2023,317500,34390
+Forest of Dean,District,2021,269475,25980
+Forest of Dean,District,2022,270000,31044
+Forest of Dean,District,2023,285000,31048
+Fylde,District,2021,220000,32837
+Fylde,District,2022,215000,31950
+Fylde,District,2023,229500,40414
+Gateshead,District,2021,145000,25844
+Gateshead,District,2022,136350,28707
+Gateshead,District,2023,149300,30200
+Gedling,Borough,2021,215000,26321
+Gedling,Borough,2022,225000,32689
+Gedling,Borough,2023,231000,33454
+Gloucester,City,2021,220000,29840
+Gloucester,City,2022,230000,30155
+Gloucester,City,2023,242000,32936
+Gosport,District,2021,229995,34953
+Gosport,District,2022,240000,29134
+Gosport,District,2023,255000,32082
+Gravesham,District,2021,327000,29921
+Gravesham,District,2022,350000,34527
+Gravesham,District,2023,350000,39030
+Great Yarmouth,District,2021,205000,30420
+Great Yarmouth,District,2022,212000,31601
+Great Yarmouth,District,2023,215250,33343
+Greenwich,District,2021,440000,34429
+Greenwich,District,2022,440000,33719
+Greenwich,District,2023,457500,35148
+Guildford,Borough,2021,485000,36737
+Guildford,Borough,2022,504052,39700
+Guildford,Borough,2023,518000,43280
+Gwynedd,District,2021,175000,25848
+Gwynedd,District,2022,185000,28819
+Gwynedd,District,2023,185000,31008
+Hackney,District,2021,558000,39181
+Hackney,District,2022,585000,43182
+Hackney,District,2023,581000,45545
+Halton,District,2021,160000,29557
+Halton,District,2022,160000,33784
+Halton,District,2023,165000,36157
+Hammersmith and Fulham,District,2021,735000,39419
+Hammersmith and Fulham,District,2022,775000,40739
+Hammersmith and Fulham,District,2023,750000,43884
+Harborough,District,2021,305000,29833
+Harborough,District,2022,300000,29515
+Harborough,District,2023,317500,31682
+Haringey,District,2021,551475,32485
+Haringey,District,2022,575000,32825
+Haringey,District,2023,583000,35175
+Harlow,District,2021,305000,28100
+Harlow,District,2022,325000,29692
+Harlow,District,2023,330000,32546
+Harrow,Borough,2021,535000,33811
+Harrow,Borough,2022,548975,33466
+Harrow,Borough,2023,560000,34437
+Hart,District,2021,428000,37368
+Hart,District,2022,450000,38752
+Hart,District,2023,465000,39342
+Hartlepool,Borough,2021,130000,28332
+Hartlepool,Borough,2022,123000,30114
+Hartlepool,Borough,2023,125000,32384
+Hastings,District,2021,268000,25046
+Hastings,District,2022,281000,26006
+Hastings,District,2023,290000,26396
+Havant,Borough,2021,310000,30273
+Havant,Borough,2022,310000,30618
+Havant,Borough,2023,317000,32892
+Havering,District,2021,405000,31985
+Havering,District,2022,435000,33366
+Havering,District,2023,450000,40993
+Herefordshire,District,2021,272800,26779
+Herefordshire,District,2022,274293,27500
+Herefordshire,District,2023,290000,29909
+Hertsmere,Borough,2021,528000,34123
+Hertsmere,Borough,2022,550000,37392
+Hertsmere,Borough,2023,555000,38293
+High Peak,District,2021,220000,26473
+High Peak,District,2022,230000,28898
+High Peak,District,2023,245000,29261
+Hillingdon,District,2021,465000,34530
+Hillingdon,District,2022,475000,34259
+Hillingdon,District,2023,495000,35881
+Hinckley and Bosworth,District,2021,233000,27445
+Hinckley and Bosworth,District,2022,250000,29203
+Hinckley and Bosworth,District,2023,250000,33077
+Horsham,District,2021,420000,29641
+Horsham,District,2022,425000,32079
+Horsham,District,2023,450000,32993
+Hounslow,Borough,2021,465000,37940
+Hounslow,Borough,2022,470000,38209
+Hounslow,Borough,2023,500000,39238
+Huntingdonshire,Borough,2021,290000,30097
+Huntingdonshire,Borough,2022,295000,31891
+Huntingdonshire,Borough,2023,305000,35431
+Hyndburn,Borough,2021,115000,25844
+Hyndburn,Borough,2022,122000,30014
+Hyndburn,Borough,2023,120000,30791
+Ipswich,Borough,2021,223000,28297
+Ipswich,Borough,2022,230000,32000
+Ipswich,Borough,2023,243750,33363
+Isle of Anglesey,District,2021,203750,28672
+Isle of Anglesey,District,2022,235000,30307
+Isle of Anglesey,District,2023,225000,33220
+Isle of Wight,District,2021,256000,26054
+Isle of Wight,District,2022,256000,27696
+Isle of Wight,District,2023,272250,28213
+Isles of Scilly,District,2021,435000,24500
+Isles of Scilly,District,2022,385000,25200
+Isles of Scilly,District,2023,585000,26000
+Islington,District,2021,625000,41946
+Islington,District,2022,655000,45290
+Islington,District,2023,665000,48334
+Kensington and Chelsea,District,2021,1225000,33779
+Kensington and Chelsea,District,2022,1450000,36500
+Kensington and Chelsea,District,2023,1275000,37216
+King's Lynn and West Norfolk,District,2021,252500,28588
+King's Lynn and West Norfolk,District,2022,260000,29860
+King's Lynn and West Norfolk,District,2023,274500,31865
+Kingston upon Hull,District,2021,122250,28316
+Kingston upon Hull,District,2022,125000,28742
+Kingston upon Hull,District,2023,127000,30966
+Kingston upon Thames,District,2021,527000,35713
+Kingston upon Thames,District,2022,550000,36203
+Kingston upon Thames,District,2023,577250,37880
+Kirklees,Borough,2021,175000,26620
+Kirklees,Borough,2022,175000,30115
+Kirklees,Borough,2023,182000,30112
+Knowsley,Borough,2021,154500,28644
+Knowsley,Borough,2022,160000,30203
+Knowsley,Borough,2023,165000,31985
+Lambeth,District,2021,550000,35700
+Lambeth,District,2022,545000,38175
+Lambeth,District,2023,545000,40772
+Lancaster,City,2021,180000,28111
+Lancaster,City,2022,179950,30183
+Lancaster,City,2023,185000,30575
+Leeds,City,2021,216000,30583
+Leeds,City,2022,215000,32690
+Leeds,City,2023,227000,34354
+Leicester,City,2021,210000,27488
+Leicester,City,2022,221000,29242
+Leicester,City,2023,230000,30770
+Lewes,District,2021,370000,31553
+Lewes,District,2022,377750,31318
+Lewes,District,2023,399995,33858
+Lewisham,District,2021,464500,33457
+Lewisham,District,2022,455000,35980
+Lewisham,District,2023,475000,39266
+Lichfield,City,2021,273000,26436
+Lichfield,City,2022,285000,26374
+Lichfield,City,2023,292500,32742
+Lincoln,City,2021,170500,28493
+Lincoln,City,2022,175000,30453
+Lincoln,City,2023,180000,33072
+Liverpool,City,2021,155000,30574
+Liverpool,City,2022,151500,32000
+Liverpool,City,2023,160000,34515
+Luton,Borough,2021,270000,32949
+Luton,Borough,2022,294000,32754
+Luton,Borough,2023,305000,33697
+Maidstone,District,2021,332000,31079
+Maidstone,District,2022,342000,30535
+Maidstone,District,2023,350000,30727
+Maldon,Borough,2021,350000,26586
+Maldon,Borough,2022,370000,29935
+Maldon,Borough,2023,368750,33506
+Malvern Hills,Borough,2021,325000,26852
+Malvern Hills,Borough,2022,310000,29346
+Malvern Hills,Borough,2023,330000,33313
+Manchester,City,2021,210000,31435
+Manchester,City,2022,222500,34233
+Manchester,City,2023,229975,37175
+Mansfield,Borough,2021,160000,25676
+Mansfield,Borough,2022,165000,29041
+Mansfield,Borough,2023,175000,30840
+Medway,Borough,2021,270000,31178
+Medway,Borough,2022,285000,33404
+Medway,Borough,2023,300000,34968
+Melton,District,2021,250000,21374
+Melton,District,2022,250000,32052
+Melton,District,2023,252000,28190
+Mendip,District,2021,295000,27500
+Mendip,District,2022,315000,28100
+Mendip,District,2023,330000,28800
+Merthyr Tydfil,District,2021,117500,26080
+Merthyr Tydfil,District,2022,131000,26580
+Merthyr Tydfil,District,2023,135000,26936
+Merton,District,2021,540000,34210
+Merton,District,2022,555000,33980
+Merton,District,2023,550000,37082
+Mid Devon,District,2021,270000,29113
+Mid Devon,District,2022,287550,27289
+Mid Devon,District,2023,290000,31591
+Mid Suffolk,District,2021,295000,29072
+Mid Suffolk,District,2022,298000,29165
+Mid Suffolk,District,2023,300000,31592
+Mid Sussex,District,2021,402500,30372
+Mid Sussex,District,2022,425000,33190
+Mid Sussex,District,2023,430000,36210
+Middlesbrough,District,2021,130000,25922
+Middlesbrough,District,2022,128000,29777
+Middlesbrough,District,2023,130000,31579
+Milton Keynes,City,2021,305000,32661
+Milton Keynes,City,2022,308500,35248
+Milton Keynes,City,2023,322750,39623
+Mole Valley,Borough,2021,563800,41184
+Mole Valley,Borough,2022,552250,39286
+Mole Valley,Borough,2023,600000,45801
+Monmouthshire,District,2021,293000,28375
+Monmouthshire,District,2022,304330,31139
+Monmouthshire,District,2023,315000,34702
+Neath Port Talbot,Borough,2021,135000,30322
+Neath Port Talbot,Borough,2022,142500,32880
+Neath Port Talbot,Borough,2023,149000,34684
+New Forest,Borough,2021,379250,30815
+New Forest,Borough,2022,395000,33193
+New Forest,Borough,2023,395000,34647
+Newark and Sherwood,District,2021,215000,27733
+Newark and Sherwood,District,2022,210000,27092
+Newark and Sherwood,District,2023,222800,31332
+Newcastle upon Tyne,City,2021,172500,27733
+Newcastle upon Tyne,City,2022,170000,27092
+Newcastle upon Tyne,City,2023,178000,31332
+Newcastle-under-Lyme,Borough,2021,167000,30705
+Newcastle-under-Lyme,Borough,2022,170000,31808
+Newcastle-under-Lyme,Borough,2023,180000,33647
+Newham,District,2021,415000,26073
+Newham,District,2022,425000,28147
+Newham,District,2023,437000,33013
+Newport,City,2021,194475,36668
+Newport,City,2022,200000,39781
+Newport,City,2023,210000,39724
+North Devon,District,2021,280000,27878
+North Devon,District,2022,295000,30456
+North Devon,District,2023,300000,30785
+North East Derbyshire,District,2021,210000,26646
+North East Derbyshire,District,2022,215000,29042
+North East Derbyshire,District,2023,225000,30571
+North East Lincolnshire,Borough,2021,145000,26829
+North East Lincolnshire,Borough,2022,147000,29773
+North East Lincolnshire,Borough,2023,146750,29249
+North Hertfordshire,District,2021,390000,35162
+North Hertfordshire,District,2022,400000,35094
+North Hertfordshire,District,2023,400000,37982
+North Kesteven,Borough,2021,225000,27795
+North Kesteven,Borough,2022,232000,30131
+North Kesteven,Borough,2023,241750,31103
+North Lincolnshire,Borough,2021,162000,29947
+North Lincolnshire,Borough,2022,160000,30446
+North Lincolnshire,Borough,2023,169950,32280
+North Norfolk,District,2021,291000,25418
+North Norfolk,District,2022,300000,28209
+North Norfolk,District,2023,309000,28601
+North Northamptonshire,Borough,2021,228000,28501
+North Northamptonshire,Borough,2022,242500,31564
+North Northamptonshire,Borough,2023,250000,30913
+North Somerset,Borough,2021,299950,28361
+North Somerset,Borough,2022,295000,29988
+North Somerset,Borough,2023,315000,31963
+North Tyneside,Borough,2021,177500,27306
+North Tyneside,Borough,2022,173000,30078
+North Tyneside,Borough,2023,185000,31883
+North Warwickshire,Borough,2021,237500,28647
+North Warwickshire,Borough,2022,243000,31398
+North Warwickshire,Borough,2023,240000,31657
+North West Leicestershire,Borough,2021,230000,29995
+North West Leicestershire,Borough,2022,247000,32674
+North West Leicestershire,Borough,2023,247500,33487
+Northumberland,Borough,2021,182500,27681
+Northumberland,Borough,2022,169950,29686
+Northumberland,Borough,2023,185000,30886
+Norwich,City,2021,217250,30450
+Norwich,City,2022,226000,29217
+Norwich,City,2023,235000,31997
+Nottingham,City,2021,165000,27979
+Nottingham,City,2022,175000,29156
+Nottingham,City,2023,186000,30151
+Nuneaton and Bedworth,District,2021,195000,25522
+Nuneaton and Bedworth,District,2022,210000,27046
+Nuneaton and Bedworth,District,2023,215000,29796
+Oadby and Wigston,District,2021,245000,24198
+Oadby and Wigston,District,2022,255000,25129
+Oadby and Wigston,District,2023,275000,24337
+Oldham,District,2021,168000,27556
+Oldham,District,2022,175000,28442
+Oldham,District,2023,179975,29844
+Oxford,City,2021,425000,35762
+Oxford,City,2022,440000,37574
+Oxford,City,2023,450000,38846
+Pembrokeshire,District,2021,198000,27253
+Pembrokeshire,District,2022,215000,31932
+Pembrokeshire,District,2023,217000,31360
+Pendle,District,2021,127500,24355
+Pendle,District,2022,122750,25758
+Pendle,District,2023,132000,29932
+Peterborough,City,2021,215000,29937
+Peterborough,City,2022,220000,31396
+Peterborough,City,2023,233000,33425
+Plymouth,City,2021,195000,26759
+Plymouth,City,2022,205000,29152
+Plymouth,City,2023,210625,33004
+Portsmouth,City,2021,236000,31851
+Portsmouth,City,2022,250000,34136
+Portsmouth,City,2023,260000,35245
+Powys,Borough,2021,215000,27140
+Powys,Borough,2022,235000,29049
+Powys,Borough,2023,230000,30008
+Preston,Borough,2021,155000,28056
+Preston,Borough,2022,155000,30045
+Preston,Borough,2023,152000,29626
+Reading,Borough,2021,320000,34409
+Reading,Borough,2022,330000,38196
+Reading,Borough,2023,350000,40570
+Redbridge,District,2021,490000,31034
+Redbridge,District,2022,490000,34565
+Redbridge,District,2023,506500,34745
+Redcar and Cleveland,District,2021,140000,24821
+Redcar and Cleveland,District,2022,140000,26462
+Redcar and Cleveland,District,2023,150000,32090
+Redditch,District,2021,235000,31692
+Redditch,District,2022,236500,26939
+Redditch,District,2023,245000,31207
+Reigate and Banstead,District,2021,455000,33739
+Reigate and Banstead,District,2022,465000,32355
+Reigate and Banstead,District,2023,477500,34490
+Rhondda Cynon Taf,District,2021,130000,26784
+Rhondda Cynon Taf,District,2022,136000,26818
+Rhondda Cynon Taf,District,2023,145000,32079
+Ribble Valley,District,2021,240000,38490
+Ribble Valley,District,2022,238975,36347
+Ribble Valley,District,2023,247750,41874
+Richmond upon Thames,District,2021,692500,35651
+Richmond upon Thames,District,2022,760000,36888
+Richmond upon Thames,District,2023,738500,40022
+Richmondshire,District,2021,230000,28200
+Richmondshire,District,2022,245000,28800
+Richmondshire,District,2023,255000,29400
+Rochdale,Borough,2021,165500,26481
+Rochdale,Borough,2022,170000,27704
+Rochdale,Borough,2023,180000,31043
+Rochford,District,2021,360000,29715
+Rochford,District,2022,381000,31454
+Rochford,District,2023,386250,33452
+Rossendale,Borough,2021,170000,23427
+Rossendale,Borough,2022,165000,26276
+Rossendale,Borough,2023,170000,28005
+Rother,District,2021,350000,25355
+Rother,District,2022,355000,28697
+Rother,District,2023,355000,28122
+Rotherham,Borough,2021,160000,27925
+Rotherham,Borough,2022,162000,28441
+Rotherham,Borough,2023,170000,30788
+Rugby,Borough,2021,257000,35745
+Rugby,Borough,2022,250000,35908
+Rugby,Borough,2023,275000,35702
+Runnymede,Borough,2021,444250,42356
+Runnymede,Borough,2022,450000,38395
+Runnymede,Borough,2023,450000,42908
+Rushcliffe,Borough,2021,305000,30470
+Rushcliffe,Borough,2022,305000,32892
+Rushcliffe,Borough,2023,325000,31757
+Rushmoor,Borough,2021,325000,34320
+Rushmoor,Borough,2022,340000,35207
+Rushmoor,Borough,2023,350000,38435
+Rutland,Borough,2021,324000,29841
+Rutland,Borough,2022,304250,33117
+Rutland,Borough,2023,342500,35945
+Ryedale,District,2021,250000,27000
+Ryedale,District,2022,265000,27600
+Ryedale,District,2023,280000,28200
+Salford,City,2021,195000,29219
+Salford,City,2022,210000,32356
+Salford,City,2023,215000,33854
+Sandwell,District,2021,173000,27547
+Sandwell,District,2022,189000,27473
+Sandwell,District,2023,200000,30280
+Scarborough,District,2021,200000,23700
+Scarborough,District,2022,215000,24200
+Scarborough,District,2023,230000,25000
+Sedgemoor,District,2021,240000,26500
+Sedgemoor,District,2022,260000,27200
+Sedgemoor,District,2023,270000,28000
+Sefton,District,2021,195250,29572
+Sefton,District,2022,198000,30618
+Sefton,District,2023,205000,32825
+Selby,District,2021,220000,29800
+Selby,District,2022,235000,30500
+Selby,District,2023,245000,31500
+Sevenoaks,District,2021,450000,30037
+Sevenoaks,District,2022,480000,30151
+Sevenoaks,District,2023,460000,31885
+Sheffield,City,2021,185000,29607
+Sheffield,City,2022,188000,30000
+Sheffield,City,2023,205000,32603
+Shropshire,District,2021,250000,27407
+Shropshire,District,2022,250000,31118
+Shropshire,District,2023,265000,31363
+Slough,Borough,2021,350000,39000
+Slough,Borough,2022,357500,41105
+Slough,Borough,2023,385000,39360
+Solihull,District,2021,320000,35486
+Solihull,District,2022,315000,40743
+Solihull,District,2023,330000,34959
+Somerset West and Taunton,District,2021,275000,28500
+Somerset West and Taunton,District,2022,295000,29000
+Somerset West and Taunton,District,2023,310000,29300
+South Cambridgeshire,District,2021,385000,36936
+South Cambridgeshire,District,2022,410000,39844
+South Cambridgeshire,District,2023,417500,40352
+South Derbyshire,District,2021,212500,29962
+South Derbyshire,District,2022,225000,32235
+South Derbyshire,District,2023,231000,34015
+South Gloucestershire,District,2021,300000,33892
+South Gloucestershire,District,2022,320000,36871
+South Gloucestershire,District,2023,330000,40539
+South Hams,District,2021,350000,28132
+South Hams,District,2022,381000,29988
+South Hams,District,2023,385000,29410
+South Holland,District,2021,218000,25464
+South Holland,District,2022,227500,27854
+South Holland,District,2023,237500,30487
+South Kesteven,District,2021,240000,26777
+South Kesteven,District,2022,250000,29164
+South Kesteven,District,2023,254000,30113
+South Lakeland,District,2021,280000,27900
+South Lakeland,District,2022,300000,28500
+South Lakeland,District,2023,315000,29300
+South Norfolk,District,2021,280000,30838
+South Norfolk,District,2022,290000,32570
+South Norfolk,District,2023,302750,34535
+South Oxfordshire,District,2021,441561,33227
+South Oxfordshire,District,2022,435000,36686
+South Oxfordshire,District,2023,442500,40556
+South Ribble,District,2021,180000,30171
+South Ribble,District,2022,183000,31402
+South Ribble,District,2023,195000,33241
+South Somerset,District,2021,260000,26800
+South Somerset,District,2022,280000,27500
+South Somerset,District,2023,295000,28200
+South Staffordshire,District,2021,240000,30500
+South Staffordshire,District,2022,260000,31200
+South Staffordshire,District,2023,275000,31900
+South Tyneside,District,2021,145000,24802
+South Tyneside,District,2022,139950,27826
+South Tyneside,District,2023,145000,28906
+Southampton,City,2021,234000,31365
+Southampton,City,2022,249950,33968
+Southampton,City,2023,252000,35735
+Southwark,Borough,2021,545000,41234
+Southwark,Borough,2022,530000,43951
+Southwark,Borough,2023,535000,42589
+Spelthorne,District,2021,430000,35730
+Spelthorne,District,2022,435000,37999
+Spelthorne,District,2023,450000,38577
+St Albans,City,2021,580000,32899
+St Albans,City,2022,620000,34174
+St Albans,City,2023,628250,36353
+St. Helens,Borough,2021,155000,32451
+St. Helens,Borough,2022,156000,29145
+St. Helens,Borough,2023,167000,30079
+Stafford,Borough,2021,225000,29689
+Stafford,Borough,2022,230000,31781
+Stafford,Borough,2023,245000,33673
+Staffordshire Moorlands,District,2021,200000,30202
+Staffordshire Moorlands,District,2022,200000,30560
+Staffordshire Moorlands,District,2023,201750,33288
+Stevenage,Borough,2021,304500,36261
+Stevenage,Borough,2022,325000,39144
+Stevenage,Borough,2023,335000,41657
+Stockport,Borough,2021,273000,27348
+Stockport,Borough,2022,275000,30153
+Stockport,Borough,2023,285425,32908
+Stockton-on-Tees,Borough,2021,150000,29026
+Stockton-on-Tees,Borough,2022,150000,30643
+Stockton-on-Tees,Borough,2023,160000,30508
+Stoke-on-Trent,City,2021,131000,28348
+Stoke-on-Trent,City,2022,135000,29489
+Stoke-on-Trent,City,2023,140000,30656
+Stratford-on-Avon,District,2021,345000,32445
+Stratford-on-Avon,District,2022,350000,30813
+Stratford-on-Avon,District,2023,360000,33127
+Stroud,District,2021,310000,30631
+Stroud,District,2022,315000,32364
+Stroud,District,2023,326000,35199
+Sunderland,City,2021,135000,26820
+Sunderland,City,2022,130000,28160
+Sunderland,City,2023,130000,30129
+Surrey Heath,Borough,2021,450000,38422
+Surrey Heath,Borough,2022,450000,38814
+Surrey Heath,Borough,2023,456000,37463
+Sutton,Borough,2021,430000,30763
+Sutton,Borough,2022,438000,35728
+Sutton,Borough,2023,465000,35277
+Swale,District,2021,275000,27733
+Swale,District,2022,290000,27846
+Swale,District,2023,300000,31299
+Swansea,City,2021,172500,28672
+Swansea,City,2022,180000,30258
+Swansea,City,2023,180000,32016
+Swindon,Borough,2021,238000,31290
+Swindon,Borough,2022,250000,34620
+Swindon,Borough,2023,263250,35605
+Tameside,Borough,2021,173000,25857
+Tameside,Borough,2022,188000,25742
+Tameside,Borough,2023,195000,27904
+Tamworth,Borough,2021,215000,25359
+Tamworth,Borough,2022,220500,30169
+Tamworth,Borough,2023,236000,32589
+Tandridge,District,2021,475000,29940
+Tandridge,District,2022,491750,33384
+Tandridge,District,2023,500000,40374
+Teignbridge,District,2021,279475,24546
+Teignbridge,District,2022,290000,27781
+Teignbridge,District,2023,300000,27548
+Telford and Wrekin,Borough,2021,190000,28863
+Telford and Wrekin,Borough,2022,195000,31675
+Telford and Wrekin,Borough,2023,205000,32358
+Tendring,District,2021,255000,28014
+Tendring,District,2022,265000,31395
+Tendring,District,2023,275000,32981
+Test Valley,District,2021,340000,31856
+Test Valley,District,2022,355000,32967
+Test Valley,District,2023,354500,35058
+Tewkesbury,District,2021,285000,32643
+Tewkesbury,District,2022,295000,34653
+Tewkesbury,District,2023,308000,34913
+Thanet,District,2021,280000,24967
+Thanet,District,2022,292000,27476
+Thanet,District,2023,310000,29312
+Three Rivers,District,2021,500000,35015
+Three Rivers,District,2022,560000,41345
+Three Rivers,District,2023,560000,46232
+Thurrock,Borough,2021,315000,30673
+Thurrock,Borough,2022,335000,34305
+Thurrock,Borough,2023,350000,35562
+Tonbridge and Malling,District,2021,375000,28079
+Tonbridge and Malling,District,2022,400000,30920
+Tonbridge and Malling,District,2023,405000,32797
+Torbay,Borough,2021,230000,26240
+Torbay,Borough,2022,242500,26025
+Torbay,Borough,2023,254000,27116
+Torfaen,Borough,2021,163000,29682
+Torfaen,Borough,2022,173350,32204
+Torfaen,Borough,2023,180000,34390
+Torridge,District,2021,265000,25756
+Torridge,District,2022,275000,27243
+Torridge,District,2023,290000,28941
+Tower Hamlets,Borough,2021,480000,47945
+Tower Hamlets,Borough,2022,475500,52498
+Tower Hamlets,Borough,2023,487500,58121
+Trafford,Borough,2021,325000,31572
+Trafford,Borough,2022,348000,32519
+Trafford,Borough,2023,353000,31275
+Tunbridge Wells,Borough,2021,425000,27843
+Tunbridge Wells,Borough,2022,425000,31685
+Tunbridge Wells,Borough,2023,435000,35016
+Uttlesford,District,2021,440000,32533
+Uttlesford,District,2022,465000,34299
+Uttlesford,District,2023,445000,36950
+Vale of Glamorgan,District,2021,250000,26572
+Vale of Glamorgan,District,2022,260000,27898
+Vale of Glamorgan,District,2023,280000,29364
+Vale of White Horse,District,2021,365000,37054
+Vale of White Horse,District,2022,375000,41105
+Vale of White Horse,District,2023,390000,40993
+Wakefield,City,2021,167500,28265
+Wakefield,City,2022,170150,29586
+Wakefield,City,2023,180000,32844
+Walsall,Borough,2021,186000,29064
+Walsall,Borough,2022,189000,29300
+Walsall,Borough,2023,200000,31558
+Waltham Forest,Borough,2021,500000,31997
+Waltham Forest,Borough,2022,510000,30914
+Waltham Forest,Borough,2023,520000,34641
+Wandsworth,Borough,2021,640000,33499
+Wandsworth,Borough,2022,674000,36434
+Wandsworth,Borough,2023,665000,39768
+Warrington,Borough,2021,223000,32018
+Warrington,Borough,2022,230000,32986
+Warrington,Borough,2023,246000,34917
+Warwick,District,2021,323000,30594
+Warwick,District,2022,328000,31747
+Warwick,District,2023,345000,35089
+Watford,Borough,2021,395000,32059
+Watford,Borough,2022,410000,28699
+Watford,Borough,2023,410000,32925
+Waverley,District,2021,515000,28779
+Waverley,District,2022,535000,30881
+Waverley,District,2023,570000,33308
+Wealden,District,2021,370000,27011
+Wealden,District,2022,385000,28689
+Wealden,District,2023,375000,30928
+Welwyn Hatfield,Borough,2021,420000,33924
+Welwyn Hatfield,Borough,2022,431000,38695
+Welwyn Hatfield,Borough,2023,435000,39994
+West Berkshire,Borough,2021,380000,38677
+West Berkshire,Borough,2022,375000,37702
+West Berkshire,Borough,2023,393000,42041
+West Devon,District,2021,285000,22886
+West Devon,District,2022,285000,29024
+West Devon,District,2023,300000,30254
+West Lancashire,District,2021,210000,27453
+West Lancashire,District,2022,202000,32110
+West Lancashire,District,2023,223750,35188
+West Lindsey,District,2021,210000,30551
+West Lindsey,District,2022,210000,34608
+West Lindsey,District,2023,220000,31311
+West Northamptonshire,District,2021,269950,28794
+West Northamptonshire,District,2022,275000,31782
+West Northamptonshire,District,2023,285000,33913
+West Oxfordshire,District,2021,370000,31200
+West Oxfordshire,District,2022,390000,32000
+West Oxfordshire,District,2023,405000,32800
+West Suffolk,District,2021,290000,29300
+West Suffolk,District,2022,310000,29900
+West Suffolk,District,2023,325000,30600
+Westminster,City,2021,1031000,45000
+Westminster,City,2022,910000,46200
+Westminster,City,2023,925000,47500
+Wigan,Borough,2021,155500,27681
+Wigan,Borough,2022,165000,28071
+Wigan,Borough,2023,170000,30393
+Wiltshire,District,2021,300000,29090
+Wiltshire,District,2022,310000,32364
+Wiltshire,District,2023,320000,33856
+Winchester,City,2021,480000,33592
+Winchester,City,2022,475000,34557
+Winchester,City,2023,495000,37149
+Windsor and Maidenhead,Borough,2021,520000,33929
+Windsor and Maidenhead,Borough,2022,529000,37456
+Windsor and Maidenhead,Borough,2023,535000,37289
+Wirral,Borough,2021,195000,26825
+Wirral,Borough,2022,192000,28282
+Wirral,Borough,2023,200000,29980
+Woking,Borough,2021,445000,34907
+Woking,Borough,2022,445000,38791
+Woking,Borough,2023,475000,37202
+Wokingham,Borough,2021,445500,38276
+Wokingham,Borough,2022,471500,37316
+Wokingham,Borough,2023,488575,41998
+Wolverhampton,City,2021,175000,28441
+Wolverhampton,City,2022,185000,30380
+Wolverhampton,City,2023,196000,31767
+Worcester,City,2021,225000,27978
+Worcester,City,2022,230000,33108
+Worcester,City,2023,249000,33891
+Worthing,Borough,2021,322500,29395
+Worthing,Borough,2022,335000,30074
+Worthing,Borough,2023,354500,31410
+Wrexham,City,2021,170000,28552
+Wrexham,City,2022,181000,30953
+Wrexham,City,2023,175000,32921
+Wychavon,District,2021,299950,28449
+Wychavon,District,2022,305000,30599
+Wychavon,District,2023,320000,32374
+Wyre,District,2021,170000,24824
+Wyre,District,2022,171000,27007
+Wyre,District,2023,185000,28340
+Wyre Forest,District,2021,218000,27577
+Wyre Forest,District,2022,224500,27455
+Wyre Forest,District,2023,235000,32334
+York,City,2021,270000,32501
+York,City,2022,290000,33077
+York,City,2023,300000,34109
