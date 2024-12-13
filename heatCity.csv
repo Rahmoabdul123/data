@@ -1,0 +1,638 @@
+﻿area,cx,cy,heatCondition,numbers
+Bath,-2.36,51.38,Does not apply,0
+Bath,-2.36,51.38,No central heating,855
+Bath,-2.36,51.38,Mains gas only,58923
+Bath,-2.36,51.38,Tank or bottled gas only,599
+Bath,-2.36,51.38,Electric only,7378
+Bath,-2.36,51.38,Oil only,2961
+Bath,-2.36,51.38,Wood only,140
+Bath,-2.36,51.38,Solid fuel only,171
+Bath,-2.36,51.38,Renewable energy only,249
+Bath,-2.36,51.38,District or communal heat networks only,513
+Bath,-2.36,51.38,Other central heating only,330
+Bath,-2.36,51.38,Two or more types of central heating (not including renewable energy),6593
+Bath,-2.36,51.38,Two or more types of central heating (including renewable energy),540
+Bedford,-0.460739,52.136436,Does not apply,0
+Bedford,-0.460739,52.136436,No central heating,922
+Bedford,-0.460739,52.136436,Mains gas only,54447
+Bedford,-0.460739,52.136436,Tank or bottled gas only,972
+Bedford,-0.460739,52.136436,Electric only,7682
+Bedford,-0.460739,52.136436,Oil only,2975
+Bedford,-0.460739,52.136436,Wood only,65
+Bedford,-0.460739,52.136436,Solid fuel only,76
+Bedford,-0.460739,52.136436,Renewable energy only,365
+Bedford,-0.460739,52.136436,District or communal heat networks only,320
+Bedford,-0.460739,52.136436,Other central heating only,596
+Bedford,-0.460739,52.136436,Two or more types of central heating (not including renewable energy),6089
+Bedford,-0.460739,52.136436,Two or more types of central heating (including renewable energy),442
+Birmingham,-1.9025,52.48,Does not apply,0
+Birmingham,-1.9025,52.48,No central heating,9995
+Birmingham,-1.9025,52.48,Mains gas only,314339
+Birmingham,-1.9025,52.48,Tank or bottled gas only,2037
+Birmingham,-1.9025,52.48,Electric only,49507
+Birmingham,-1.9025,52.48,Oil only,292
+Birmingham,-1.9025,52.48,Wood only,60
+Birmingham,-1.9025,52.48,Solid fuel only,56
+Birmingham,-1.9025,52.48,Renewable energy only,343
+Birmingham,-1.9025,52.48,District or communal heat networks only,2524
+Birmingham,-1.9025,52.48,Other central heating only,8738
+Birmingham,-1.9025,52.48,Two or more types of central heating (not including renewable energy),34541
+Birmingham,-1.9025,52.48,Two or more types of central heating (including renewable energy),1023
+Blackpool,-3.0357,53.8175,Does not apply,0
+Blackpool,-3.0357,53.8175,No central heating,1492
+Blackpool,-3.0357,53.8175,Mains gas only,50688
+Blackpool,-3.0357,53.8175,Tank or bottled gas only,169
+Blackpool,-3.0357,53.8175,Electric only,6062
+Blackpool,-3.0357,53.8175,Oil only,57
+Blackpool,-3.0357,53.8175,Wood only,70
+Blackpool,-3.0357,53.8175,Solid fuel only,24
+Blackpool,-3.0357,53.8175,Renewable energy only,24
+Blackpool,-3.0357,53.8175,District or communal heat networks only,144
+Blackpool,-3.0357,53.8175,Other central heating only,631
+Blackpool,-3.0357,53.8175,Two or more types of central heating (not including renewable energy),5318
+Blackpool,-3.0357,53.8175,Two or more types of central heating (including renewable energy),115
+Bournemouth,-1.8808,50.7208,Does not apply,0
+Bournemouth,-1.8808,50.7208,No central heating,2673
+Bournemouth,-1.8808,50.7208,Mains gas only,134200
+Bournemouth,-1.8808,50.7208,Tank or bottled gas only,637
+Bournemouth,-1.8808,50.7208,Electric only,20210
+Bournemouth,-1.8808,50.7208,Oil only,248
+Bournemouth,-1.8808,50.7208,Wood only,62
+Bournemouth,-1.8808,50.7208,Solid fuel only,33
+Bournemouth,-1.8808,50.7208,Renewable energy only,269
+Bournemouth,-1.8808,50.7208,District or communal heat networks only,1251
+Bournemouth,-1.8808,50.7208,Other central heating only,999
+Bournemouth,-1.8808,50.7208,Two or more types of central heating (not including renewable energy),12416
+Bournemouth,-1.8808,50.7208,Two or more types of central heating (including renewable energy),843
+Bradford,-1.7577,53.795,Does not apply,0
+Bradford,-1.7577,53.795,No central heating,4539
+Bradford,-1.7577,53.795,Mains gas only,164616
+Bradford,-1.7577,53.795,Tank or bottled gas only,1050
+Bradford,-1.7577,53.795,Electric only,15172
+Bradford,-1.7577,53.795,Oil only,702
+Bradford,-1.7577,53.795,Wood only,114
+Bradford,-1.7577,53.795,Solid fuel only,127
+Bradford,-1.7577,53.795,Renewable energy only,258
+Bradford,-1.7577,53.795,District or communal heat networks only,968
+Bradford,-1.7577,53.795,Other central heating only,3439
+Bradford,-1.7577,53.795,Two or more types of central heating (not including renewable energy),18321
+Bradford,-1.7577,53.795,Two or more types of central heating (including renewable energy),560
+Brighton and Hove,-0.1367,50.8278,Does not apply,0
+Brighton and Hove,-0.1367,50.8278,No central heating,2844
+Brighton and Hove,-0.1367,50.8278,Mains gas only,91393
+Brighton and Hove,-0.1367,50.8278,Tank or bottled gas only,358
+Brighton and Hove,-0.1367,50.8278,Electric only,14451
+Brighton and Hove,-0.1367,50.8278,Oil only,200
+Brighton and Hove,-0.1367,50.8278,Wood only,27
+Brighton and Hove,-0.1367,50.8278,Solid fuel only,20
+Brighton and Hove,-0.1367,50.8278,Renewable energy only,212
+Brighton and Hove,-0.1367,50.8278,District or communal heat networks only,1902
+Brighton and Hove,-0.1367,50.8278,Other central heating only,907
+Brighton and Hove,-0.1367,50.8278,Two or more types of central heating (not including renewable energy),8567
+Brighton and Hove,-0.1367,50.8278,Two or more types of central heating (including renewable energy),521
+Bristol,-2.5879,51.4545,Does not apply,0
+Bristol,-2.5879,51.4545,No central heating,3110
+Bristol,-2.5879,51.4545,Mains gas only,143784
+Bristol,-2.5879,51.4545,Tank or bottled gas only,617
+Bristol,-2.5879,51.4545,Electric only,24851
+Bristol,-2.5879,51.4545,Oil only,262
+Bristol,-2.5879,51.4545,Wood only,93
+Bristol,-2.5879,51.4545,Solid fuel only,83
+Bristol,-2.5879,51.4545,Renewable energy only,396
+Bristol,-2.5879,51.4545,District or communal heat networks only,2420
+Bristol,-2.5879,51.4545,Other central heating only,1686
+Bristol,-2.5879,51.4545,Two or more types of central heating (not including renewable energy),13383
+Bristol,-2.5879,51.4545,Two or more types of central heating (including renewable energy),953
+Cambridge,0.1218,52.2053,Does not apply,0
+Cambridge,0.1218,52.2053,No central heating,831
+Cambridge,0.1218,52.2053,Mains gas only,39387
+Cambridge,0.1218,52.2053,Tank or bottled gas only,188
+Cambridge,0.1218,52.2053,Electric only,6098
+Cambridge,0.1218,52.2053,Oil only,97
+Cambridge,0.1218,52.2053,Wood only,9
+Cambridge,0.1218,52.2053,Solid fuel only,7
+Cambridge,0.1218,52.2053,Renewable energy only,154
+Cambridge,0.1218,52.2053,District or communal heat networks only,1096
+Cambridge,0.1218,52.2053,Other central heating only,514
+Cambridge,0.1218,52.2053,Two or more types of central heating (not including renewable energy),3487
+Cambridge,0.1218,52.2053,Two or more types of central heating (including renewable energy),604
+Canterbury,1.0802,51.2798,Does not apply,0
+Canterbury,1.0802,51.2798,No central heating,789
+Canterbury,1.0802,51.2798,Mains gas only,48793
+Canterbury,1.0802,51.2798,Tank or bottled gas only,826
+Canterbury,1.0802,51.2798,Electric only,5339
+Canterbury,1.0802,51.2798,Oil only,1187
+Canterbury,1.0802,51.2798,Wood only,86
+Canterbury,1.0802,51.2798,Solid fuel only,57
+Canterbury,1.0802,51.2798,Renewable energy only,173
+Canterbury,1.0802,51.2798,District or communal heat networks only,240
+Canterbury,1.0802,51.2798,Other central heating only,371
+Canterbury,1.0802,51.2798,Two or more types of central heating (not including renewable energy),5521
+Canterbury,1.0802,51.2798,Two or more types of central heating (including renewable energy),410
+Cardiff,-3.1791,51.4816,Does not apply,0
+Cardiff,-3.1791,51.4816,No central heating,2067
+Cardiff,-3.1791,51.4816,Mains gas only,115558
+Cardiff,-3.1791,51.4816,Tank or bottled gas only,829
+Cardiff,-3.1791,51.4816,Electric only,15376
+Cardiff,-3.1791,51.4816,Oil only,209
+Cardiff,-3.1791,51.4816,Wood only,31
+Cardiff,-3.1791,51.4816,Solid fuel only,45
+Cardiff,-3.1791,51.4816,Renewable energy only,123
+Cardiff,-3.1791,51.4816,District or communal heat networks only,456
+Cardiff,-3.1791,51.4816,Other central heating only,1188
+Cardiff,-3.1791,51.4816,Two or more types of central heating (not including renewable energy),11059
+Cardiff,-3.1791,51.4816,Two or more types of central heating (including renewable energy),392
+Chelmsford,0.4693,51.7349,Does not apply,0
+Chelmsford,0.4693,51.7349,No central heating,900
+Chelmsford,0.4693,51.7349,Mains gas only,54170
+Chelmsford,0.4693,51.7349,Tank or bottled gas only,1151
+Chelmsford,0.4693,51.7349,Electric only,7815
+Chelmsford,0.4693,51.7349,Oil only,3994
+Chelmsford,0.4693,51.7349,Wood only,67
+Chelmsford,0.4693,51.7349,Solid fuel only,69
+Chelmsford,0.4693,51.7349,Renewable energy only,319
+Chelmsford,0.4693,51.7349,District or communal heat networks only,328
+Chelmsford,0.4693,51.7349,Other central heating only,465
+Chelmsford,0.4693,51.7349,Two or more types of central heating (not including renewable energy),5661
+Chelmsford,0.4693,51.7349,Two or more types of central heating (including renewable energy),466
+Chichester,-0.78,50.8363,Does not apply,0
+Chichester,-0.78,50.8363,No central heating,672
+Chichester,-0.78,50.8363,Mains gas only,32986
+Chichester,-0.78,50.8363,Tank or bottled gas only,1564
+Chichester,-0.78,50.8363,Electric only,5631
+Chichester,-0.78,50.8363,Oil only,5498
+Chichester,-0.78,50.8363,Wood only,183
+Chichester,-0.78,50.8363,Solid fuel only,95
+Chichester,-0.78,50.8363,Renewable energy only,564
+Chichester,-0.78,50.8363,District or communal heat networks only,467
+Chichester,-0.78,50.8363,Other central heating only,215
+Chichester,-0.78,50.8363,Two or more types of central heating (not including renewable energy),5653
+Chichester,-0.78,50.8363,Two or more types of central heating (including renewable energy),590
+Colchester,0.8917,51.889,Does not apply,0
+Colchester,0.8917,51.889,No central heating,863
+Colchester,0.8917,51.889,Mains gas only,55756
+Colchester,0.8917,51.889,Tank or bottled gas only,484
+Colchester,0.8917,51.889,Electric only,9317
+Colchester,0.8917,51.889,Oil only,4974
+Colchester,0.8917,51.889,Wood only,69
+Colchester,0.8917,51.889,Solid fuel only,67
+Colchester,0.8917,51.889,Renewable energy only,305
+Colchester,0.8917,51.889,District or communal heat networks only,184
+Colchester,0.8917,51.889,Other central heating only,428
+Colchester,0.8917,51.889,Two or more types of central heating (not including renewable energy),6617
+Colchester,0.8917,51.889,Two or more types of central heating (including renewable energy),647
+Coventry,-1.5081,52.4084,Does not apply,0
+Coventry,-1.5081,52.4084,No central heating,2584
+Coventry,-1.5081,52.4084,Mains gas only,106616
+Coventry,-1.5081,52.4084,Tank or bottled gas only,588
+Coventry,-1.5081,52.4084,Electric only,11450
+Coventry,-1.5081,52.4084,Oil only,103
+Coventry,-1.5081,52.4084,Wood only,24
+Coventry,-1.5081,52.4084,Solid fuel only,34
+Coventry,-1.5081,52.4084,Renewable energy only,93
+Coventry,-1.5081,52.4084,District or communal heat networks only,504
+Coventry,-1.5081,52.4084,Other central heating only,1626
+Coventry,-1.5081,52.4084,Two or more types of central heating (not including renewable energy),10164
+Coventry,-1.5081,52.4084,Two or more types of central heating (including renewable energy),354
+Derby,-1.4755,52.9225,Does not apply,0
+Derby,-1.4755,52.9225,No central heating,1829
+Derby,-1.4755,52.9225,Mains gas only,85904
+Derby,-1.4755,52.9225,Tank or bottled gas only,429
+Derby,-1.4755,52.9225,Electric only,7480
+Derby,-1.4755,52.9225,Oil only,36
+Derby,-1.4755,52.9225,Wood only,36
+Derby,-1.4755,52.9225,Solid fuel only,44
+Derby,-1.4755,52.9225,Renewable energy only,120
+Derby,-1.4755,52.9225,District or communal heat networks only,236
+Derby,-1.4755,52.9225,Other central heating only,1235
+Derby,-1.4755,52.9225,Two or more types of central heating (not including renewable energy),7930
+Derby,-1.4755,52.9225,Two or more types of central heating (including renewable energy),373
+Doncaster,-1.133,53.5225,Does not apply,0
+Doncaster,-1.133,53.5225,No central heating,1117
+Doncaster,-1.133,53.5225,Mains gas only,109842
+Doncaster,-1.133,53.5225,Tank or bottled gas only,1328
+Doncaster,-1.133,53.5225,Electric only,5046
+Doncaster,-1.133,53.5225,Oil only,1190
+Doncaster,-1.133,53.5225,Wood only,126
+Doncaster,-1.133,53.5225,Solid fuel only,870
+Doncaster,-1.133,53.5225,Renewable energy only,323
+Doncaster,-1.133,53.5225,District or communal heat networks only,624
+Doncaster,-1.133,53.5225,Other central heating only,1185
+Doncaster,-1.133,53.5225,Two or more types of central heating (not including renewable energy),11190
+Doncaster,-1.133,53.5225,Two or more types of central heating (including renewable energy),640
+Exeter,-3.5276,50.7215,Does not apply,0
+Exeter,-3.5276,50.7215,No central heating,1157
+Exeter,-3.5276,50.7215,Mains gas only,40161
+Exeter,-3.5276,50.7215,Tank or bottled gas only,203
+Exeter,-3.5276,50.7215,Electric only,6029
+Exeter,-3.5276,50.7215,Oil only,135
+Exeter,-3.5276,50.7215,Wood only,22
+Exeter,-3.5276,50.7215,Solid fuel only,10
+Exeter,-3.5276,50.7215,Renewable energy only,171
+Exeter,-3.5276,50.7215,District or communal heat networks only,579
+Exeter,-3.5276,50.7215,Other central heating only,306
+Exeter,-3.5276,50.7215,Two or more types of central heating (not including renewable energy),3468
+Exeter,-3.5276,50.7215,Two or more types of central heating (including renewable energy),312
+Gloucester,-2.2426,51.8687,Does not apply,0
+Gloucester,-2.2426,51.8687,No central heating,855
+Gloucester,-2.2426,51.8687,Mains gas only,43629
+Gloucester,-2.2426,51.8687,Tank or bottled gas only,259
+Gloucester,-2.2426,51.8687,Electric only,5080
+Gloucester,-2.2426,51.8687,Oil only,104
+Gloucester,-2.2426,51.8687,Wood only,24
+Gloucester,-2.2426,51.8687,Solid fuel only,24
+Gloucester,-2.2426,51.8687,Renewable energy only,45
+Gloucester,-2.2426,51.8687,District or communal heat networks only,206
+Gloucester,-2.2426,51.8687,Other central heating only,421
+Gloucester,-2.2426,51.8687,Two or more types of central heating (not including renewable energy),4552
+Gloucester,-2.2426,51.8687,Two or more types of central heating (including renewable energy),210
+Lancaster,-2.8014,54.0489,Does not apply,0
+Lancaster,-2.8014,54.0489,No central heating,1133
+Lancaster,-2.8014,54.0489,Mains gas only,45764
+Lancaster,-2.8014,54.0489,Tank or bottled gas only,697
+Lancaster,-2.8014,54.0489,Electric only,4487
+Lancaster,-2.8014,54.0489,Oil only,1463
+Lancaster,-2.8014,54.0489,Wood only,142
+Lancaster,-2.8014,54.0489,Solid fuel only,78
+Lancaster,-2.8014,54.0489,Renewable energy only,136
+Lancaster,-2.8014,54.0489,District or communal heat networks only,157
+Lancaster,-2.8014,54.0489,Other central heating only,338
+Lancaster,-2.8014,54.0489,Two or more types of central heating (not including renewable energy),5337
+Lancaster,-2.8014,54.0489,Two or more types of central heating (including renewable energy),244
+Leeds,-1.54856,53.80127,Does not apply,0
+Leeds,-1.54856,53.80127,No central heating,7383
+Leeds,-1.54856,53.80127,Mains gas only,261846
+Leeds,-1.54856,53.80127,Tank or bottled gas only,1439
+Leeds,-1.54856,53.80127,Electric only,36550
+Leeds,-1.54856,53.80127,Oil only,660
+Leeds,-1.54856,53.80127,Wood only,136
+Leeds,-1.54856,53.80127,Solid fuel only,232
+Leeds,-1.54856,53.80127,Renewable energy only,621
+Leeds,-1.54856,53.80127,District or communal heat networks only,1572
+Leeds,-1.54856,53.80127,Other central heating only,3596
+Leeds,-1.54856,53.80127,Two or more types of central heating (not including renewable energy),26274
+Leeds,-1.54856,53.80127,Two or more types of central heating (including renewable energy),1159
+Leicester,-1.1319,52.6344,Does not apply,0
+Leicester,-1.1319,52.6344,No central heating,2416
+Leicester,-1.1319,52.6344,Mains gas only,94228
+Leicester,-1.1319,52.6344,Tank or bottled gas only,668
+Leicester,-1.1319,52.6344,Electric only,14002
+Leicester,-1.1319,52.6344,Oil only,49
+Leicester,-1.1319,52.6344,Wood only,14
+Leicester,-1.1319,52.6344,Solid fuel only,40
+Leicester,-1.1319,52.6344,Renewable energy only,175
+Leicester,-1.1319,52.6344,District or communal heat networks only,2421
+Leicester,-1.1319,52.6344,Other central heating only,2388
+Leicester,-1.1319,52.6344,Two or more types of central heating (not including renewable energy),10360
+Leicester,-1.1319,52.6344,Two or more types of central heating (including renewable energy),624
+Lichfield,-1.82653,52.683498,Does not apply,0
+Lichfield,-1.82653,52.683498,No central heating,404
+Lichfield,-1.82653,52.683498,Mains gas only,35947
+Lichfield,-1.82653,52.683498,Tank or bottled gas only,776
+Lichfield,-1.82653,52.683498,Electric only,2587
+Lichfield,-1.82653,52.683498,Oil only,1313
+Lichfield,-1.82653,52.683498,Wood only,63
+Lichfield,-1.82653,52.683498,Solid fuel only,100
+Lichfield,-1.82653,52.683498,Renewable energy only,157
+Lichfield,-1.82653,52.683498,District or communal heat networks only,92
+Lichfield,-1.82653,52.683498,Other central heating only,216
+Lichfield,-1.82653,52.683498,Two or more types of central heating (not including renewable energy),3777
+Lichfield,-1.82653,52.683498,Two or more types of central heating (including renewable energy),199
+Lincoln,-0.5386,53.234,Does not apply,0
+Lincoln,-0.5386,53.234,No central heating,513
+Lincoln,-0.5386,53.234,Mains gas only,34321
+Lincoln,-0.5386,53.234,Tank or bottled gas only,193
+Lincoln,-0.5386,53.234,Electric only,3486
+Lincoln,-0.5386,53.234,Oil only,55
+Lincoln,-0.5386,53.234,Wood only,19
+Lincoln,-0.5386,53.234,Solid fuel only,8
+Lincoln,-0.5386,53.234,Renewable energy only,78
+Lincoln,-0.5386,53.234,District or communal heat networks only,125
+Lincoln,-0.5386,53.234,Other central heating only,377
+Lincoln,-0.5386,53.234,Two or more types of central heating (not including renewable energy),3191
+Lincoln,-0.5386,53.234,Two or more types of central heating (including renewable energy),141
+Liverpool,-2.9785,53.4094,Does not apply,0
+Liverpool,-2.9785,53.4094,No central heating,4822
+Liverpool,-2.9785,53.4094,Mains gas only,161443
+Liverpool,-2.9785,53.4094,Tank or bottled gas only,986
+Liverpool,-2.9785,53.4094,Electric only,20288
+Liverpool,-2.9785,53.4094,Oil only,111
+Liverpool,-2.9785,53.4094,Wood only,23
+Liverpool,-2.9785,53.4094,Solid fuel only,44
+Liverpool,-2.9785,53.4094,Renewable energy only,175
+Liverpool,-2.9785,53.4094,District or communal heat networks only,1107
+Liverpool,-2.9785,53.4094,Other central heating only,2894
+Liverpool,-2.9785,53.4094,Two or more types of central heating (not including renewable energy),15212
+Liverpool,-2.9785,53.4094,Two or more types of central heating (including renewable energy),386
+Manchester,-2.2426,53.4808,Does not apply,0
+Manchester,-2.2426,53.4808,No central heating,4884
+Manchester,-2.2426,53.4808,Mains gas only,143876
+Manchester,-2.2426,53.4808,Tank or bottled gas only,1039
+Manchester,-2.2426,53.4808,Electric only,39199
+Manchester,-2.2426,53.4808,Oil only,193
+Manchester,-2.2426,53.4808,Wood only,77
+Manchester,-2.2426,53.4808,Solid fuel only,23
+Manchester,-2.2426,53.4808,Renewable energy only,400
+Manchester,-2.2426,53.4808,District or communal heat networks only,2349
+Manchester,-2.2426,53.4808,Other central heating only,3731
+Manchester,-2.2426,53.4808,Two or more types of central heating (not including renewable energy),18074
+Manchester,-2.2426,53.4808,Two or more types of central heating (including renewable energy),890
+Milton Keynes,-0.7055,51.9875,Does not apply,0
+Milton Keynes,-0.7055,51.9875,No central heating,1300
+Milton Keynes,-0.7055,51.9875,Mains gas only,87612
+Milton Keynes,-0.7055,51.9875,Tank or bottled gas only,888
+Milton Keynes,-0.7055,51.9875,Electric only,9417
+Milton Keynes,-0.7055,51.9875,Oil only,1031
+Milton Keynes,-0.7055,51.9875,Wood only,33
+Milton Keynes,-0.7055,51.9875,Solid fuel only,50
+Milton Keynes,-0.7055,51.9875,Renewable energy only,207
+Milton Keynes,-0.7055,51.9875,District or communal heat networks only,996
+Milton Keynes,-0.7055,51.9875,Other central heating only,1057
+Milton Keynes,-0.7055,51.9875,Two or more types of central heating (not including renewable energy),9629
+Milton Keynes,-0.7055,51.9875,Two or more types of central heating (including renewable energy),880
+Newcastle upon Tyne,-1.6174,54.9783,Does not apply,0
+Newcastle upon Tyne,-1.6174,54.9783,No central heating,1447
+Newcastle upon Tyne,-1.6174,54.9783,Mains gas only,91909
+Newcastle upon Tyne,-1.6174,54.9783,Tank or bottled gas only,457
+Newcastle upon Tyne,-1.6174,54.9783,Electric only,12392
+Newcastle upon Tyne,-1.6174,54.9783,Oil only,131
+Newcastle upon Tyne,-1.6174,54.9783,Wood only,44
+Newcastle upon Tyne,-1.6174,54.9783,Solid fuel only,38
+Newcastle upon Tyne,-1.6174,54.9783,Renewable energy only,133
+Newcastle upon Tyne,-1.6174,54.9783,District or communal heat networks only,2880
+Newcastle upon Tyne,-1.6174,54.9783,Other central heating only,1642
+Newcastle upon Tyne,-1.6174,54.9783,Two or more types of central heating (not including renewable energy),11298
+Newcastle upon Tyne,-1.6174,54.9783,Two or more types of central heating (including renewable energy),426
+Newport,-2.997,51.587,Does not apply,0
+Newport,-2.997,51.587,No central heating,554
+Newport,-2.997,51.587,Mains gas only,53239
+Newport,-2.997,51.587,Tank or bottled gas only,633
+Newport,-2.997,51.587,Electric only,3696
+Newport,-2.997,51.587,Oil only,602
+Newport,-2.997,51.587,Wood only,72
+Newport,-2.997,51.587,Solid fuel only,77
+Newport,-2.997,51.587,Renewable energy only,87
+Newport,-2.997,51.587,District or communal heat networks only,814
+Newport,-2.997,51.587,Other central heating only,621
+Newport,-2.997,51.587,Two or more types of central heating (not including renewable energy),5403
+Newport,-2.997,51.587,Two or more types of central heating (including renewable energy),256
+Norwich,1.2961,52.6297,Does not apply,0
+Norwich,1.2961,52.6297,No central heating,980
+Norwich,1.2961,52.6297,Mains gas only,48786
+Norwich,1.2961,52.6297,Tank or bottled gas only,306
+Norwich,1.2961,52.6297,Electric only,6854
+Norwich,1.2961,52.6297,Oil only,142
+Norwich,1.2961,52.6297,Wood only,30
+Norwich,1.2961,52.6297,Solid fuel only,23
+Norwich,1.2961,52.6297,Renewable energy only,158
+Norwich,1.2961,52.6297,District or communal heat networks only,1573
+Norwich,1.2961,52.6297,Other central heating only,641
+Norwich,1.2961,52.6297,Two or more types of central heating (not including renewable energy),4617
+Norwich,1.2961,52.6297,Two or more types of central heating (including renewable energy),349
+Nottingham,-1.151,52.9548,Does not apply,0
+Nottingham,-1.151,52.9548,No central heating,2039
+Nottingham,-1.151,52.9548,Mains gas only,90870
+Nottingham,-1.151,52.9548,Tank or bottled gas only,887
+Nottingham,-1.151,52.9548,Electric only,13762
+Nottingham,-1.151,52.9548,Oil only,65
+Nottingham,-1.151,52.9548,Wood only,28
+Nottingham,-1.151,52.9548,Solid fuel only,181
+Nottingham,-1.151,52.9548,Renewable energy only,255
+Nottingham,-1.151,52.9548,District or communal heat networks only,3190
+Nottingham,-1.151,52.9548,Other central heating only,1838
+Nottingham,-1.151,52.9548,Two or more types of central heating (not including renewable energy),11063
+Nottingham,-1.151,52.9548,Two or more types of central heating (including renewable energy),567
+Oxford,-1.2577,51.7542,Does not apply,0
+Oxford,-1.2577,51.7542,No central heating,904
+Oxford,-1.2577,51.7542,Mains gas only,41802
+Oxford,-1.2577,51.7542,Tank or bottled gas only,320
+Oxford,-1.2577,51.7542,Electric only,6709
+Oxford,-1.2577,51.7542,Oil only,88
+Oxford,-1.2577,51.7542,Wood only,16
+Oxford,-1.2577,51.7542,Solid fuel only,12
+Oxford,-1.2577,51.7542,Renewable energy only,137
+Oxford,-1.2577,51.7542,District or communal heat networks only,312
+Oxford,-1.2577,51.7542,Other central heating only,603
+Oxford,-1.2577,51.7542,Two or more types of central heating (not including renewable energy),3992
+Oxford,-1.2577,51.7542,Two or more types of central heating (including renewable energy),342
+Peterborough,-0.2425,52.573,Does not apply,0
+Peterborough,-0.2425,52.573,No central heating,1024
+Peterborough,-0.2425,52.573,Mains gas only,64800
+Peterborough,-0.2425,52.573,Tank or bottled gas only,979
+Peterborough,-0.2425,52.573,Electric only,6665
+Peterborough,-0.2425,52.573,Oil only,1761
+Peterborough,-0.2425,52.573,Wood only,31
+Peterborough,-0.2425,52.573,Solid fuel only,56
+Peterborough,-0.2425,52.573,Renewable energy only,216
+Peterborough,-0.2425,52.573,District or communal heat networks only,465
+Peterborough,-0.2425,52.573,Other central heating only,1092
+Peterborough,-0.2425,52.573,Two or more types of central heating (not including renewable energy),6775
+Peterborough,-0.2425,52.573,Two or more types of central heating (including renewable energy),669
+Plymouth,-4.1412,50.3755,Does not apply,0
+Plymouth,-4.1412,50.3755,No central heating,2146
+Plymouth,-4.1412,50.3755,Mains gas only,92634
+Plymouth,-4.1412,50.3755,Tank or bottled gas only,501
+Plymouth,-4.1412,50.3755,Electric only,8511
+Plymouth,-4.1412,50.3755,Oil only,108
+Plymouth,-4.1412,50.3755,Wood only,35
+Plymouth,-4.1412,50.3755,Solid fuel only,46
+Plymouth,-4.1412,50.3755,Renewable energy only,100
+Plymouth,-4.1412,50.3755,District or communal heat networks only,426
+Plymouth,-4.1412,50.3755,Other central heating only,808
+Plymouth,-4.1412,50.3755,Two or more types of central heating (not including renewable energy),8596
+Plymouth,-4.1412,50.3755,Two or more types of central heating (including renewable energy),647
+Portsmouth,-1.0916,50.8198,Does not apply,0
+Portsmouth,-1.0916,50.8198,No central heating,2091
+Portsmouth,-1.0916,50.8198,Mains gas only,65275
+Portsmouth,-1.0916,50.8198,Tank or bottled gas only,255
+Portsmouth,-1.0916,50.8198,Electric only,9892
+Portsmouth,-1.0916,50.8198,Oil only,32
+Portsmouth,-1.0916,50.8198,Wood only,15
+Portsmouth,-1.0916,50.8198,Solid fuel only,17
+Portsmouth,-1.0916,50.8198,Renewable energy only,111
+Portsmouth,-1.0916,50.8198,District or communal heat networks only,745
+Portsmouth,-1.0916,50.8198,Other central heating only,848
+Portsmouth,-1.0916,50.8198,Two or more types of central heating (not including renewable energy),6684
+Portsmouth,-1.0916,50.8198,Two or more types of central heating (including renewable energy),190
+Salford,-2.293,53.487,Does not apply,0
+Salford,-2.293,53.487,No central heating,1952
+Salford,-2.293,53.487,Mains gas only,79857
+Salford,-2.293,53.487,Tank or bottled gas only,436
+Salford,-2.293,53.487,Electric only,20813
+Salford,-2.293,53.487,Oil only,161
+Salford,-2.293,53.487,Wood only,21
+Salford,-2.293,53.487,Solid fuel only,59
+Salford,-2.293,53.487,Renewable energy only,368
+Salford,-2.293,53.487,District or communal heat networks only,843
+Salford,-2.293,53.487,Other central heating only,1368
+Salford,-2.293,53.487,Two or more types of central heating (not including renewable energy),8826
+Salford,-2.293,53.487,Two or more types of central heating (including renewable energy),412
+Sheffield,-1.47,53.38,Does not apply,0
+Sheffield,-1.47,53.38,No central heating,3222
+Sheffield,-1.47,53.38,Mains gas only,183700
+Sheffield,-1.47,53.38,Tank or bottled gas only,827
+Sheffield,-1.47,53.38,Electric only,16969
+Sheffield,-1.47,53.38,Oil only,355
+Sheffield,-1.47,53.38,Wood only,76
+Sheffield,-1.47,53.38,Solid fuel only,194
+Sheffield,-1.47,53.38,Renewable energy only,432
+Sheffield,-1.47,53.38,District or communal heat networks only,4872
+Sheffield,-1.47,53.38,Other central heating only,2472
+Sheffield,-1.47,53.38,Two or more types of central heating (not including renewable energy),17931
+Sheffield,-1.47,53.38,Two or more types of central heating (including renewable energy),900
+Southampton,-1.4044,50.9097,Does not apply,0
+Southampton,-1.4044,50.9097,No central heating,2214
+Southampton,-1.4044,50.9097,Mains gas only,67680
+Southampton,-1.4044,50.9097,Tank or bottled gas only,362
+Southampton,-1.4044,50.9097,Electric only,21438
+Southampton,-1.4044,50.9097,Oil only,64
+Southampton,-1.4044,50.9097,Wood only,18
+Southampton,-1.4044,50.9097,Solid fuel only,24
+Southampton,-1.4044,50.9097,Renewable energy only,310
+Southampton,-1.4044,50.9097,District or communal heat networks only,1501
+Southampton,-1.4044,50.9097,Other central heating only,1401
+Southampton,-1.4044,50.9097,Two or more types of central heating (not including renewable energy),6821
+Southampton,-1.4044,50.9097,Two or more types of central heating (including renewable energy),456
+St Albans,-0.246,51.748,Does not apply,0
+St Albans,-0.246,51.748,No central heating,482
+St Albans,-0.246,51.748,Mains gas only,48054
+St Albans,-0.246,51.748,Tank or bottled gas only,314
+St Albans,-0.246,51.748,Electric only,4620
+St Albans,-0.246,51.748,Oil only,388
+St Albans,-0.246,51.748,Wood only,57
+St Albans,-0.246,51.748,Solid fuel only,15
+St Albans,-0.246,51.748,Renewable energy only,113
+St Albans,-0.246,51.748,District or communal heat networks only,238
+St Albans,-0.246,51.748,Other central heating only,306
+St Albans,-0.246,51.748,Two or more types of central heating (not including renewable energy),4133
+St Albans,-0.246,51.748,Two or more types of central heating (including renewable energy),273
+Stoke-on-Trent,-2.1843,53.002,Does not apply,0
+Stoke-on-Trent,-2.1843,53.002,No central heating,1432
+Stoke-on-Trent,-2.1843,53.002,Mains gas only,90191
+Stoke-on-Trent,-2.1843,53.002,Tank or bottled gas only,479
+Stoke-on-Trent,-2.1843,53.002,Electric only,6688
+Stoke-on-Trent,-2.1843,53.002,Oil only,99
+Stoke-on-Trent,-2.1843,53.002,Wood only,31
+Stoke-on-Trent,-2.1843,53.002,Solid fuel only,236
+Stoke-on-Trent,-2.1843,53.002,Renewable energy only,126
+Stoke-on-Trent,-2.1843,53.002,District or communal heat networks only,432
+Stoke-on-Trent,-2.1843,53.002,Other central heating only,1197
+Stoke-on-Trent,-2.1843,53.002,Two or more types of central heating (not including renewable energy),8945
+Stoke-on-Trent,-2.1843,53.002,Two or more types of central heating (including renewable energy),542
+Sunderland,-1.3814,54.9081,Does not apply,0
+Sunderland,-1.3814,54.9081,No central heating,908
+Sunderland,-1.3814,54.9081,Mains gas only,97605
+Sunderland,-1.3814,54.9081,Tank or bottled gas only,405
+Sunderland,-1.3814,54.9081,Electric only,5844
+Sunderland,-1.3814,54.9081,Oil only,144
+Sunderland,-1.3814,54.9081,Wood only,46
+Sunderland,-1.3814,54.9081,Solid fuel only,240
+Sunderland,-1.3814,54.9081,Renewable energy only,253
+Sunderland,-1.3814,54.9081,District or communal heat networks only,1567
+Sunderland,-1.3814,54.9081,Other central heating only,1542
+Sunderland,-1.3814,54.9081,Two or more types of central heating (not including renewable energy),12811
+Sunderland,-1.3814,54.9081,Two or more types of central heating (including renewable energy),812
+Swansea,-3.9436,51.6214,Does not apply,0
+Swansea,-3.9436,51.6214,No central heating,974
+Swansea,-3.9436,51.6214,Mains gas only,84262
+Swansea,-3.9436,51.6214,Tank or bottled gas only,1066
+Swansea,-3.9436,51.6214,Electric only,5872
+Swansea,-3.9436,51.6214,Oil only,1959
+Swansea,-3.9436,51.6214,Wood only,97
+Swansea,-3.9436,51.6214,Solid fuel only,331
+Swansea,-3.9436,51.6214,Renewable energy only,255
+Swansea,-3.9436,51.6214,District or communal heat networks only,576
+Swansea,-3.9436,51.6214,Other central heating only,720
+Swansea,-3.9436,51.6214,Two or more types of central heating (not including renewable energy),8440
+Swansea,-3.9436,51.6214,Two or more types of central heating (including renewable energy),407
+Wakefield,-1.4975,53.681,Does not apply,0
+Wakefield,-1.4975,53.681,No central heating,1501
+Wakefield,-1.4975,53.681,Mains gas only,125136
+Wakefield,-1.4975,53.681,Tank or bottled gas only,683
+Wakefield,-1.4975,53.681,Electric only,7930
+Wakefield,-1.4975,53.681,Oil only,547
+Wakefield,-1.4975,53.681,Wood only,93
+Wakefield,-1.4975,53.681,Solid fuel only,985
+Wakefield,-1.4975,53.681,Renewable energy only,303
+Wakefield,-1.4975,53.681,District or communal heat networks only,991
+Wakefield,-1.4975,53.681,Other central heating only,1070
+Wakefield,-1.4975,53.681,Two or more types of central heating (not including renewable energy),13120
+Wakefield,-1.4975,53.681,Two or more types of central heating (including renewable energy),716
+Westminster,-0.142,51.497,Does not apply,0
+Westminster,-0.142,51.497,No central heating,3680
+Westminster,-0.142,51.497,Mains gas only,53249
+Westminster,-0.142,51.497,Tank or bottled gas only,742
+Westminster,-0.142,51.497,Electric only,17561
+Westminster,-0.142,51.497,Oil only,446
+Westminster,-0.142,51.497,Wood only,4
+Westminster,-0.142,51.497,Solid fuel only,27
+Westminster,-0.142,51.497,Renewable energy only,184
+Westminster,-0.142,51.497,District or communal heat networks only,8076
+Westminster,-0.142,51.497,Other central heating only,2579
+Westminster,-0.142,51.497,Two or more types of central heating (not including renewable energy),8049
+Westminster,-0.142,51.497,Two or more types of central heating (including renewable energy),218
+Winchester,-1.308,51.063,Does not apply,0
+Winchester,-1.308,51.063,No central heating,467
+Winchester,-1.308,51.063,Mains gas only,35535
+Winchester,-1.308,51.063,Tank or bottled gas only,1303
+Winchester,-1.308,51.063,Electric only,3986
+Winchester,-1.308,51.063,Oil only,3921
+Winchester,-1.308,51.063,Wood only,157
+Winchester,-1.308,51.063,Solid fuel only,89
+Winchester,-1.308,51.063,Renewable energy only,488
+Winchester,-1.308,51.063,District or communal heat networks only,99
+Winchester,-1.308,51.063,Other central heating only,193
+Winchester,-1.308,51.063,Two or more types of central heating (not including renewable energy),4784
+Winchester,-1.308,51.063,Two or more types of central heating (including renewable energy),693
+Wolverhampton,-2.129,52.586,Does not apply,0
+Wolverhampton,-2.129,52.586,No central heating,1863
+Wolverhampton,-2.129,52.586,Mains gas only,80484
+Wolverhampton,-2.129,52.586,Tank or bottled gas only,440
+Wolverhampton,-2.129,52.586,Electric only,10465
+Wolverhampton,-2.129,52.586,Oil only,65
+Wolverhampton,-2.129,52.586,Wood only,29
+Wolverhampton,-2.129,52.586,Solid fuel only,53
+Wolverhampton,-2.129,52.586,Renewable energy only,60
+Wolverhampton,-2.129,52.586,District or communal heat networks only,771
+Wolverhampton,-2.129,52.586,Other central heating only,1501
+Wolverhampton,-2.129,52.586,Two or more types of central heating (not including renewable energy),9123
+Wolverhampton,-2.129,52.586,Two or more types of central heating (including renewable energy),288
+Worcester,-2.22,52.19,Does not apply,0
+Worcester,-2.22,52.19,No central heating,698
+Worcester,-2.22,52.19,Mains gas only,35559
+Worcester,-2.22,52.19,Tank or bottled gas only,129
+Worcester,-2.22,52.19,Electric only,4337
+Worcester,-2.22,52.19,Oil only,69
+Worcester,-2.22,52.19,Wood only,14
+Worcester,-2.22,52.19,Solid fuel only,6
+Worcester,-2.22,52.19,Renewable energy only,50
+Worcester,-2.22,52.19,District or communal heat networks only,179
+Worcester,-2.22,52.19,Other central heating only,294
+Worcester,-2.22,52.19,Two or more types of central heating (not including renewable energy),3220
+Worcester,-2.22,52.19,Two or more types of central heating (including renewable energy),167
+Wrexham,-3.004,53.047,Does not apply,0
+Wrexham,-3.004,53.047,No central heating,560
+Wrexham,-3.004,53.047,Mains gas only,43121
+Wrexham,-3.004,53.047,Tank or bottled gas only,807
+Wrexham,-3.004,53.047,Electric only,2945
+Wrexham,-3.004,53.047,Oil only,4012
+Wrexham,-3.004,53.047,Wood only,143
+Wrexham,-3.004,53.047,Solid fuel only,201
+Wrexham,-3.004,53.047,Renewable energy only,191
+Wrexham,-3.004,53.047,District or communal heat networks only,83
+Wrexham,-3.004,53.047,Other central heating only,306
+Wrexham,-3.004,53.047,Two or more types of central heating (not including renewable energy),5276
+Wrexham,-3.004,53.047,Two or more types of central heating (including renewable energy),269
+York,-1.0822,53.959,Does not apply,0
+York,-1.0822,53.959,No central heating,1056
+York,-1.0822,53.959,Mains gas only,66964
+York,-1.0822,53.959,Tank or bottled gas only,473
+York,-1.0822,53.959,Electric only,7794
+York,-1.0822,53.959,Oil only,950
+York,-1.0822,53.959,Wood only,59
+York,-1.0822,53.959,Solid fuel only,63
+York,-1.0822,53.959,Renewable energy only,274
+York,-1.0822,53.959,District or communal heat networks only,586
+York,-1.0822,53.959,Other central heating only,413
+York,-1.0822,53.959,Two or more types of central heating (not including renewable energy),6413
+York,-1.0822,53.959,Two or more types of central heating (including renewable energy),415
